@@ -7,7 +7,6 @@
 #define BLYNK_TEMPLATE_ID "TMPL6VXacET4h"
 #define BLYNK_TEMPLATE_NAME "LibroBot"
 #define BLYNK_AUTH_TOKEN "ybteh_v-TAIWmJrvCi2oSPrj2Yg0butB"
-char auth[] = BLYNK_AUTH_TOKEN;
 char ssid[] = "wifi_s";
 char pass[] = "12345678";
 
